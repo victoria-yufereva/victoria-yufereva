@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victoria-yufereva
 - 👀 I’m interested in analytics and ds
-- 🌱 I’m currently learning statistics, linear algebra and various python libraries concernin data science and data analytics
+- 🌱 I’m currently learning statistics, linear algebra and various python libraries concerning data science and data analytics
 - 💞️ I’m looking to collaborate on ds-projects which are suitable for junior analyst
 - 📫 How to reach me ...
 
