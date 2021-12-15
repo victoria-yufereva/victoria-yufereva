@@ -2,7 +2,6 @@
 - 👀 I’m interested in analytics and ds
 - 🌱 I’m currently learning statistics, linear algebra and various python libraries concerning data science and data analytics
 - 💞️ I’m looking to collaborate on ds-projects which are suitable for junior analyst
-- 📫 How to reach me ...
 
 <!---
 victoria-yufereva/victoria-yufereva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
